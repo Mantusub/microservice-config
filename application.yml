@@ -1,6 +1,7 @@
-spring:
-  application:
-    name: Config-Default
+# spring:
+#   application:
+#     name: Config-Default
+#these are the common configuration that can be used for registering with eureka client server
 eureka:
   instance:
     prefer-ip-address: true
